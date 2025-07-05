@@ -1,0 +1,55 @@
+.container{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ .logo{
+    vertical-align: middle;
+    border-radius: 50px;
+ }
+.menular{
+    display: inline-block;
+    list-style: none;
+    vertical-align: middle;
+    margin-left: 400px;
+}
+.menular li{
+    display: inline-block;
+    margin-left: 35px;
+}
+.header{
+    background-color: aqua;
+}
+
+.card{
+    width: 1200px;
+    padding:15px;
+
+
+}
+
+#cardlar{
+    background-color: aqua;
+
+}
+.nom{
+    width: 310px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: orangered;
+}
+.rasmlar{
+    display: ;
+}
+.sarlavha{
+   color: blue;
+   
+}
+.matn , .gaplar{
+    color: blue;
+}
+.container{
+    display: flex;
+}
